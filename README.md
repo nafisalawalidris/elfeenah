@@ -22,5 +22,5 @@
 - Black Girls in Tech Mentor
 - Google Women Techmakers (WTM) Ambassador
 - Google Developer's Group (GDG) Ambassador
-- 
+
 🥂 Cheers!
