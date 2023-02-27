@@ -2,9 +2,9 @@
 
 👀 I’m a Data Scientist and I'm currently building a community whose goals are:
 
-•	To mentor 1000 individuals interested in transitioning into the tech industry or growing within the industry in 2023.
-•	To provide mentees with job opportunities and other advantages related to tech.
-•	To monitor and support mentees as they use their knowledge and skills to advance in their careers.
+- To mentor 1000 individuals interested in transitioning into the tech industry or growing within the industry in 2023.
+- To provide mentees with job opportunities and other advantages related to tech.
+- To monitor and support mentees as they use their knowledge and skills to advance in their careers.
 
 🌱 I’m currently learning Software development
 
