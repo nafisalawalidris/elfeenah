@@ -16,11 +16,12 @@
 
 ## ⚡️ What I do:
 - Global Ambassador for Women Tech Network
-- Speaking at Conferences => Send an Invite to nafisaidris413@gmail.com if you need me at your Conference
+- Public Speaking at Conferences => Send an Invite to nafisaidris413@gmail.com if you need me at your Conference
 - Northern Tech Ecosystem Kaduna State Ambassador
 - Women in Tech Mentor
 - Black Girls in Tech Mentor
 - Google Women Techmakers (WTM) Ambassador
 - Google Developer's Group (GDG) Ambassador
+- Lighthall Instructor 
 
 🥂 Cheers!
