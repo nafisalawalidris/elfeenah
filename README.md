@@ -1,27 +1,27 @@
-# 👋 Hi, I’m Nafeesah
+# 👋 Hello, I'm Nafeesah
 
-## 👀 I’m a Data Scientist and I'm currently building a community whose goals are:
+## 👀 I'm a Data Scientist passionate about building a community that supports the growth of individuals in the tech industry. My goals are:
 
-- To mentor 1000 individuals interested in transitioning into the tech industry or growing within the industry in 2023.
-- To provide mentees with job opportunities and other advantages related to tech.
-- To monitor and support mentees as they use their knowledge and skills to advance in their careers.
+- Mentoring 1000 individuals interested in transitioning into or advancing their careers in tech by 2023.
+- Providing my mentees with access to job opportunities and other benefits related to tech.
+- Offering continuous support and monitoring to help them achieve their career goals.
 
-## 🌱 I’m currently learning Software development
+## 🌱 Currently, I'm learning software development.
 
-## 💞️ I'm looking to collaborate on Open Source Projects and Tech Articles
+## 💞️ I'm open to collaborating on open-source projects and writing tech articles.
 
-📫 How to reach me nafisaidris413@gmail.com 
+📫 Feel free to reach out to me at nafisaidris413@gmail.com.
 
-## 💬 Ask me about anything, I'll be happy to help
+## 💬 Ask me anything, and I'll be happy to help.
 
-## ⚡️ What I do:
-- Global Ambassador for Women Tech Network
-- Public Speaking at Conferences => Send an Invite to nafisaidris413@gmail.com if you need me at your Conference
-- Northern Tech Ecosystem Kaduna State Ambassador
-- Women in Tech Mentor
-- Black Girls in Tech Mentor
-- Google Women Techmakers (WTM) Ambassador
-- Google Developer's Group (GDG) Ambassador
-- Lighthall Instructor 
+## ⚡️ Here's what I'm involved in:
+
+- Global Ambassador for Women Tech Network.
+- Public speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
+- Northern Tech Ecosystem Kaduna State Ambassador.
+- Mentor for Women in Tech and Black Girls in Tech.
+- Google Women Techmakers (WTM) Ambassador.
+- Google Developer's Group (GDG) Ambassador.
+- Lighthall Instructor.
 
 🥂 Cheers!
