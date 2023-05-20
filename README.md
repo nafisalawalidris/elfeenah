@@ -17,9 +17,10 @@
 ## ⚡️ Here's what I'm involved in:
 
 - Global Ambassador for Women Tech Network.
-- Public speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
+- Advisory Board Member for Spendo INC.
+- Public Speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
 - Northern Tech Ecosystem Kaduna State Ambassador.
-- Mentor for Women in Tech and Black Girls in Tech.
+- Mentor for Women in Tech Global/Nigeria and Black Girls in Tech.
 - Google Women Techmakers (WTM) Ambassador.
 - Google Developer's Group (GDG) Ambassador.
 - Lighthall Instructor.
