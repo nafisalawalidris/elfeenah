@@ -17,7 +17,7 @@
 ## ⚡️ Here's what I'm involved in:
 
 - Global Ambassador for Women Tech Network.
-- Advisory Board Member for Spendo INC.
+- Advisory Board Member for [Spendo INC.](https://github.com/Spendoware)
 - Public Speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
 - Northern Tech Ecosystem Kaduna State Ambassador.
 - Mentor for Women in Tech Global/Nigeria and Black Girls in Tech.
