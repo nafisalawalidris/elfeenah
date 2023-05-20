@@ -1,5 +1,8 @@
 # 👋 Hello, I'm Nafeesah
 
+[![Linkedin Badge](https://img.shields.io/badge/-nafisa-lawal-idris-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-lawal-idris/)
+[![Twitter Badge](https://img.shields.io/badge/-@FeenahNafeesah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeenahNafeesah)
+
 ## 👀 I'm a Data Scientist passionate about building a community that supports the growth of individuals in the tech industry. My goals are:
 
 - Mentoring 1000 individuals interested in transitioning into or advancing their careers in tech by 2023.
