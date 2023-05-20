@@ -29,3 +29,6 @@
 - Lighthall Instructor.
 
 🥂 Cheers!
+
+| ![elfeenah's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfeenah&show_icons=true&include_all_commits=true&hide_border=true) | ![elfeenah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfeenah&langs_count=8&layout=compact&hide_border=true) |
+| ------------- | ------------- |
