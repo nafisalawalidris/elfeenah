@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nafeesah
 
- <a href="https://www.linkedin.com/in/nafisa-lawal-idris/">LinkedIn Profile</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-lawal-idris/)
 [![Twitter Badge](https://img.shields.io/badge/-@FeenahNafeesah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeenahNafeesah)
 
 ## 👀 I'm a Data Scientist passionate about building a community that supports the growth of individuals in the tech industry. My goals are:
