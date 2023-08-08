@@ -9,7 +9,7 @@
 - Providing my mentees with access to job opportunities and other benefits related to tech.
 - Offering continuous support and monitoring to help them achieve their career goals.
 
-## 🌱 Currently, I'm learning software development.
+## 🌱 Currently, I'm learning bitcoin development.
 
 ## 💞️ I'm open to collaborating on open-source projects and writing tech articles.
 
@@ -19,7 +19,7 @@
 
 ## ⚡️ Here's what I'm involved in:
 
-- Global Ambassador for Women Tech Network.
+- Global Ambassador for WomenTech Network Global.
 - Advisory Board Member for [Spendo INC.](https://github.com/Spendoware)
 - Public Speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
 - Northern Tech Ecosystem Kaduna State Ambassador.
@@ -27,6 +27,8 @@
 - Google Women Techmakers (WTM) Ambassador.
 - Google Developer's Group (GDG) Ambassador.
 - Lighthall Instructor.
+- KaggleX, She Connect Africa & Google Women Techmakers Mentor. 
+- FATE Consultant/Advisor.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
