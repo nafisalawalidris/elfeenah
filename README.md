@@ -34,7 +34,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+  <img src="ex.png" title="Java" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="bi.png" title="power-bi"  alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="tableau.png" title="tableau" alt="Tableau" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="bitcoin" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="40" height="40"/>
