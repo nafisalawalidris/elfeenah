@@ -19,16 +19,13 @@
 
 ## ⚡️ Here's what I'm involved in:
 
-- Global Ambassador for WomenTech Network Global.
-- Advisory Board Member for [Spendo INC.](https://github.com/Spendoware)
+- Global Ambassador at WomenTech Network Global.
+- Advisory Board Member at [Spendo INC.](https://github.com/Spendoware)
+- Mentor at KaggleX, She Connect Africa, Google Women Techmakers (WTM) Ilorin, Black Girls in Tech, WOMEN IN TECH - Global Movement & Women in Tech® Nigeria. 
 - Public Speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
-- Northern Tech Ecosystem Kaduna State Ambassador.
-- Mentor for Women in Tech Global/Nigeria and Black Girls in Tech.
-- Google Women Techmakers (WTM) Ambassador.
-- Google Developer's Group (GDG) Ambassador.
-- Lighthall Instructor.
-- KaggleX, She Connect Africa & Google Women Techmakers Mentor. 
-- FATE Consultant/Advisor.
+- State Ambassador at Northern Tech Ecosystem.
+- Instructor at Lighthall.
+- Consultant/Advisor at FATE Foundation.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
