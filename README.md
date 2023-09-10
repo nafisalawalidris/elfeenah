@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-lawal-idris/)
 [![Twitter Badge](https://img.shields.io/badge/-@FeenahNafeesah-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeenahNafeesah)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nafisaidris413) 
 
 ## 👀 I'm a Data Scientist passionate about building a community that supports the growth of individuals in the tech industry. My goals are:
 
@@ -49,5 +50,7 @@
 ---
 
 ![elfeenah's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfeenah&show_icons=true&include_all_commits=true&hide_border=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="elfeenah" /></p> 
 
 ![elfeenah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfeenah&langs_count=8&layout=compact&hide_border=true)
