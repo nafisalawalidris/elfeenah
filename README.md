@@ -14,7 +14,7 @@
 
 ## 💞️ I'm open to collaborating on open-source projects and writing tech articles.
 
-📫 Feel free to reach out to me at nafisaidris413@gmail.com.
+📫 Feel free to reach out to me at elfeenah413@gmail.com.
 
 ## 💬 Ask me anything, and I'll be happy to help.
 
