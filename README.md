@@ -23,7 +23,7 @@
 - Global Ambassador at WomenTech Network Global.
 - Advisory Board Member at [Spendo INC.](https://github.com/Spendoware)
 - Mentor at KaggleX, She Connect Africa, Google Women Techmakers (WTM) Ilorin, VC4A, Black Girls in Tech, WOMEN IN TECH - Global Movement & Women in Tech® Nigeria. 
-- Public Speaker at conferences. Contact me at nafisaidris413@gmail.com to invite me to speak at your conference.
+- Public Speaker at conferences. Contact me at elfeenah413@gmail.com to invite me to speak at your conference.
 - State Ambassador at Northern Tech Ecosystem.
 - Instructor at Lighthall.
 - Consultant/Advisor at FATE Foundation.
